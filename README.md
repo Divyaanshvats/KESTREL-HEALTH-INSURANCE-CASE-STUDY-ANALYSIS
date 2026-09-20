@@ -1,1 +1,3 @@
 # KESTREL-HEALTH-INSURANCE-CASE-STUDY-ANALYSIS
+
+This case focuses on diagnosing a significant decline in AI voice-agent containment for a health insurance support line. Using three weeks of call-level, tool-call, deployment, KPI, support-ticket, and transcript data, the objective is to identify the actual cause of the decline rather than assuming the model has degraded. The analysis evaluates containment trends, transfer patterns, backend failures, agent versions, and customer-impacting factors. It then quantifies the financial and operational impact, proposes immediate and longer-term corrective actions, and outlines how the findings should be communicated to the customer’s Head of Customer Service.
