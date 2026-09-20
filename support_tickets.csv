@@ -1,0 +1,16 @@
+ticket_id,raised_on,raised_by,priority,summary,status
+KH-4471,2026-08-18,Ops - Kestrel,Low,Hospital name spelled differently in Indore results,Closed
+KH-4488,2026-08-20,Ops - Kestrel,Low,"Agent voice sounds different this week, staff asked if changed",Closed
+KH-4502,2026-08-22,Ops - Kestrel,Medium,Two callers said agent interrupted them mid-sentence,Closed
+KH-4519,2026-08-24,IT - Kestrel,Info,FYI: claims processing moving to new TPA platform in phases from 25 Aug. Claim reference format changes for newly migrated books. No action expected from Blue Machines.,Closed
+KH-4527,2026-08-25,Ops - Kestrel,Medium,Callers being asked to repeat claim number more than once,Open
+KH-4533,2026-08-26,Ops - Kestrel,Low,Renewal quote quoted in paise not rupees for one caller,Closed
+KH-4541,2026-08-27,Ops - Kestrel,High,"Agent queue volume up sharply, floor staff working late",Open
+KH-4550,2026-08-28,Ops - Kestrel,Medium,"Bot says it cannot find the claim, caller had the number correct",Open
+KH-4558,2026-08-29,Ops - Kestrel,Low,"Hindi caller switched to English mid-call, bot kept Hindi",Open
+KH-4566,2026-08-31,Ops - Kestrel,High,"Escalation from Head of CS: containment down, review meeting requested",Open
+KH-4573,2026-09-01,IT - Kestrel,Info,Planned DB maintenance window 06 Sep 02:00-04:00 IST,Open
+KH-4581,2026-09-02,Ops - Kestrel,Medium,Caller says bot repeated the same question three times then transferred,Open
+KH-4590,2026-09-03,Ops - Kestrel,Low,Request: add Marathi support,Open
+KH-4597,2026-09-04,Ops - Kestrel,High,"Agent handle time up, average wait time breaching SLA",Open
+KH-4603,2026-09-05,Ops - Kestrel,Medium,"Two callers reported bot said claim not found, later found manually by agent",Open

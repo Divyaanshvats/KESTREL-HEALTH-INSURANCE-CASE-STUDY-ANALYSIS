@@ -1,0 +1,10 @@
+timestamp,component,change,owner
+2026-08-18 11:20,tts,"Voice pack updated to neural-v3 (en-IN, hi-IN)",Blue Machines
+2026-08-19 16:05,infra,Media gateway patch 2.14.1 - jitter buffer tuning,Blue Machines
+2026-08-21 10:40,tool,find_network_hospital - added city alias table,Blue Machines
+2026-08-24 09:15,infra,Autoscaling min replicas 4 -> 6,Blue Machines
+2026-08-26 14:30,asr,ASR endpointing threshold 700ms -> 620ms,Blue Machines
+2026-08-28 12:00,prompt,"Agent prompt v14 -> v15: shortened opening, added claim-status rephrase guidance",Blue Machines
+2026-08-31 17:45,tool,get_renewal_quote - timeout 3s -> 5s,Blue Machines
+2026-09-02 10:10,infra,Log retention increased to 30 days,Blue Machines
+2026-09-04 15:25,prompt,Agent prompt v15 hotfix: typo in hi-IN greeting,Blue Machines

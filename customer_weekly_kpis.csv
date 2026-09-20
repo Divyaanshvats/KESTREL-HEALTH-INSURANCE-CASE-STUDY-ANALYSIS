@@ -1,0 +1,4 @@
+week,week_starting,total_calls,contained,transferred_to_agent,abandoned,containment_rate_pct,avg_handle_time_sec,csat_transferred,csat_contained,human_agent_cost_inr
+W1,2026-08-17,1194,834,333,27,71.5,130,4.3,4.5,13986
+W2,2026-08-24,1201,724,438,39,62.3,135,4.1,4.5,18396
+W3,2026-08-31,1149,567,542,40,51.1,140,3.6,4.4,22764
